@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-So far i've created 2 weapons, a baseball bat and a metal baseball bat. Three tools, a stone pickaxe, a stone axe, and a stone pickaxe axe. Finally 1 new matterial condensed gel which I made drop from KingSlime. 
+So far i've created 2 weapons, a Baseball Bat and a Metal Baseball Bat. Three tools, a Stone Pickaxe, a Stone Axe, and a Stone Pickaxe Axe. Finally 1 new material, "Condensed Gel" which I made drop from KingSlime. 
 
 #### What have you not done for your project yet?
 
-Create more items, armor, tools. I also need to make items from the condensed gel. I am planning on making my own projectile for a condensed gel sword.
+Create more items, armor, tools. I also need to make items from the Condensed Gel. I am planning on making my own projectile for a Condensed Gel Sword.
 
 #### What problems, if any, have you encountered?
 
-I havent encountered any major problems so far but I might run into problems making the custom projcttile. I did find it a little difficult to figure out how to add condensed gel to the KingSlime loot bag.
+I havent encountered any major problems so far but I might run into problems making the custom projcttile. I did find it a little difficult to figure out how to add Gondensed Gel to the KingSlime loot bag.
