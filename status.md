@@ -26,4 +26,4 @@ Create more items, armor, tools. I also need to make items from the Condensed Ge
 
 #### What problems, if any, have you encountered?
 
-I havent encountered any major problems so far but I might run into problems making the custom projcttile. I did find it a little difficult to figure out how to add Gondensed Gel to the KingSlime loot bag.
+I havent encountered any major problems so far but I might run into problems making the custom projcttile. I did find it a little difficult to figure out how to add Condensed Gel to the KingSlime loot bag.
